@@ -12,15 +12,18 @@ O projeto **JogoPOO** foi criado para demonstrar conceitos de **Programação Or
 - Polimorfismo;
 - Abstração.
 
+
 ## 📂 Estrutura do Projeto
 
 ```
 /JogoPOO
-├── src/
-│   ├── Main.java
-│   ├── [Outras classes]
-├── README.md
-└── [Outros ficheiros necessários]
+├── .gitattributes          # Configuração do Git
+├── Cenário.cs              # Classe Cenário
+├── jogoPoo.csproj          # Arquivo de configuração do projeto C#
+├── jogoPoo.sln             # Arquivo de solução do Visual Studio
+├── Player.cs               # Classe Player
+├── Program.cs              # Arquivo principal do programa
+├── README.md               # Documentação do projeto
 ```
 
 ## 🛠️ Tecnologias Utilizadas
