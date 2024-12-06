@@ -1,0 +1,14 @@
+C:\Users\Cidenai\source\repos\jogoPoo\bin\Debug\net8.0\jogoPoo.exe
+C:\Users\Cidenai\source\repos\jogoPoo\bin\Debug\net8.0\jogoPoo.deps.json
+C:\Users\Cidenai\source\repos\jogoPoo\bin\Debug\net8.0\jogoPoo.runtimeconfig.json
+C:\Users\Cidenai\source\repos\jogoPoo\bin\Debug\net8.0\jogoPoo.dll
+C:\Users\Cidenai\source\repos\jogoPoo\bin\Debug\net8.0\jogoPoo.pdb
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.AssemblyInfoInputs.cache
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.AssemblyInfo.cs
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.dll
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\refint\jogoPoo.dll
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.pdb
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\jogoPoo.genruntimeconfig.cache
+C:\Users\Cidenai\source\repos\jogoPoo\obj\Debug\net8.0\ref\jogoPoo.dll
