@@ -52,7 +52,7 @@ O projeto **JogoPOO** foi criado para demonstrar conceitos de **Programação Or
 
 ## ✨ Funcionalidades
 
-- [Breve descrição das funcionalidades principais].
+ Deslocar Esquerda | Direita | Saltar.
 
 ## 📚 Propósito Educacional
 
