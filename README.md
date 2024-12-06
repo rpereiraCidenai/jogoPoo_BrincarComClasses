@@ -30,7 +30,7 @@ Opção 1: Clone o repositório usando Git:
 
 bash
 Copiar código
-git clone https://github.com/a20731/JogoPOO.git
+git clone 
 Opção 2: Faça o download direto:
 
 Clique no botão Code no topo do repositório.
