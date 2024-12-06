@@ -45,7 +45,7 @@ Compile e execute o ficheiro Main.java.
 Este projeto foi desenvolvido para fins educacionais, com o objetivo de ajudar os alunos a consolidarem os conceitos de POO numa aplicação prática.
 
 👨‍🏫 Autor
-Professor Luís Ferreira
+Professor Roberto Pereira
 Disciplina: Programação de Sistemas de Informação (PSI)
 Escola Profissional de Serviços de Cidenai
 
